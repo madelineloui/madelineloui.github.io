@@ -94,8 +94,8 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Madeline Loui Anderson" # Site name or title, also used in jekyll-seo-tag
-#logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-logo: images/newlogo.png
+logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+#logo: images/newlogo.png
 description: "Madeline's academic website"
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
