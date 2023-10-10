@@ -2,7 +2,7 @@
 title: About Me
 feature_text: |
   ## Madeline Loui Anderson
-feature_image: /images/scene.jpg
+feature_image: /images/scene.png
 ---
 
 Hello! I am a PhD candidate at the Massachusetts Institute of Technology in the Electrical Engineering and Computer Science (EECS) department. My interests lie at an intersection of deep learning, Bayesian inference, and statistics, with the goal of developing robust and reliable algorithms for spatial and temporal reasoning.
