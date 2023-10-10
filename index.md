@@ -2,7 +2,7 @@
 title: About Me
 feature_text: |
   ## Madeline Loui Anderson
-feature_image: "![scene](./images/scene.png)"
+feature_image: "![scene](https://github.com/madelineloui/madelineloui.github.io/images/scene.png?raw=true)"
 ---
 
 Bio here!
