@@ -2,7 +2,7 @@
 title: About Me
 feature_text: |
   ## Madeline Loui Anderson
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: ![scene](./images/IMG_9412.jpg)
 ---
 
 Bio here!
