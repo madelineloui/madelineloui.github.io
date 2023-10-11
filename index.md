@@ -1,7 +1,7 @@
 ---
-title: About Me
+title: Madeline Loui Anderson
 feature_text: |
-  ## Madeline Loui Anderson
+  
 feature_image: /images/P1010228.JPG
 ---
 
